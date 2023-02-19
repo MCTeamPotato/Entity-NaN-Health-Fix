@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+issueTrackerURL="https://github.com/MCTeamPotato/Entity-NaN-Health-Fix/issues"
+[[mods]]
+modId="entity_nan_fix_potato_edition"
+version="1.0"
+displayName="Entity NaN Health Fix Potato Edition"
+displayURL="https://github.com/MCTeamPotato/Entity-NaN-Health-Fix"
+authors="Team Potato"
+description='''
+Just as the name says.
+'''
